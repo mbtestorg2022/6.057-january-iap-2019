@@ -31,10 +31,63 @@ Calendar
 
 This class meets for five sessions running Monday through Friday for one week.
 
-| Ses # | Topics |
-| --- | --- |
-| 1 | Introduction to MATLAB |
-| 2 | Visualization and Programming |
-| 3 | Solving Equations, Curve Fitting, and Numerical Techniques |
-| 4 | Advanced Methods |
-| 5 | Various Functions and Toolboxes
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to MATLAB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Visualization and Programming
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Solving Equations, Curve Fitting, and Numerical Techniques
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Methods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Various Functions and Toolboxes
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
